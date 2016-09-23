@@ -83,6 +83,7 @@ namespace DifferentIntegersSize
             catch (OverflowException)
             {
             }
+
             try
             {
                 s2 = byte.Parse(number);
@@ -91,6 +92,7 @@ namespace DifferentIntegersSize
             catch (OverflowException)
             {
             }
+
             try
             {
                 s3 = short.Parse(number);
@@ -99,6 +101,7 @@ namespace DifferentIntegersSize
             catch (OverflowException)
             {
             }
+
             try
             {
                 s4 = ushort.Parse(number);
@@ -107,6 +110,7 @@ namespace DifferentIntegersSize
             catch (OverflowException)
             {
             }
+
             try
             {
                 s5 = int.Parse(number);
@@ -115,6 +119,7 @@ namespace DifferentIntegersSize
             catch (OverflowException)
             {
             }
+
             try
             {
                 s6 = uint.Parse(number);
@@ -123,6 +128,7 @@ namespace DifferentIntegersSize
             catch (OverflowException)
             {
             }
+
             try
             {
                 s7 = long.Parse(number);
