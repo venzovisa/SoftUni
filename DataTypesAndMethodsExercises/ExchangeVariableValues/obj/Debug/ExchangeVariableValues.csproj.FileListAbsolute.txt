@@ -1,0 +1,4 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

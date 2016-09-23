@@ -1,0 +1,4 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\RectangleProperties\bin\Debug\RectangleProperties.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\RectangleProperties\bin\Debug\RectangleProperties.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\RectangleProperties\obj\Debug\RectangleProperties.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\RectangleProperties\obj\Debug\RectangleProperties.pdb

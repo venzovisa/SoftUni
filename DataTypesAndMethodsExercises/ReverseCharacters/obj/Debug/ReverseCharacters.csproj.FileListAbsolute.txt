@@ -1,0 +1,4 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ReverseCharacters\bin\Debug\ReverseCharacters.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ReverseCharacters\bin\Debug\ReverseCharacters.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ReverseCharacters\obj\Debug\ReverseCharacters.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ReverseCharacters\obj\Debug\ReverseCharacters.pdb

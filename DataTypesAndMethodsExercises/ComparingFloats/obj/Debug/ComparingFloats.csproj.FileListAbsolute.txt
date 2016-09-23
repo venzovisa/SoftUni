@@ -1,0 +1,4 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ComparingFloats\bin\Debug\ComparingFloats.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ComparingFloats\bin\Debug\ComparingFloats.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ComparingFloats\obj\Debug\ComparingFloats.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ComparingFloats\obj\Debug\ComparingFloats.pdb

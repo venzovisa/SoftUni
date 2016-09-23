@@ -1,0 +1,5 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.csprojResolveAssemblyReference.cache
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.pdb

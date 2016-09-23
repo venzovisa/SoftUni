@@ -1,0 +1,4 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\EmployeeData\bin\Debug\EmployeeData.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\EmployeeData\bin\Debug\EmployeeData.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\EmployeeData\obj\Debug\EmployeeData.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\EmployeeData\obj\Debug\EmployeeData.pdb

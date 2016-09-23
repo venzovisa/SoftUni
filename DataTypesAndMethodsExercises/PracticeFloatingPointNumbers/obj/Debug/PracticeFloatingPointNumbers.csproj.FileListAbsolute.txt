@@ -1,0 +1,4 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.pdb
