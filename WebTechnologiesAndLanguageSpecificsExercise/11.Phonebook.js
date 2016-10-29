@@ -1,36 +1,44 @@
 /**
  * Created by Admin on 10/28/2016.
  */
-var pb = {};
+
 function phonebook(arr){
+    var pb = {};
+    for (var i = 0; i < arr.length; i++ ) {
+        var temp = arr[i].split(' ');
+        var command = temp[0];
+        var name = temp[1];
+        var phone = temp[2];
 
-    var str = arr[0].split(' ');
-    var command = str[0];
-    var name = str[1];
-    var phone = str[2];
-
-    switch (command) {
-        case "A" : {
-            pb[name] = phone;
-            break;
-        }
-        case "S" : {
-            var hasKey = false;
-            for (key in pb) {
-                if (key == name) {
-                   console.log(key + " -> " + pb[key]);
-                    hasKey = true;
-                    break;
-                }
+        switch (command) {
+            case "A" : {
+                pb[name] = phone;
+                break;
             }
-            if (!hasKey) {console.log("Contact " + name + " does not exist.");}
-            break;
+            case "S" : {
+                var hasKey = false;
+                for (key in pb) {
+                    if (key == name) {
+                        console.log(key + " -> " + pb[key]);
+                        hasKey = true;
+                        break;
+                    }
+                }
+                if (!hasKey) {
+                    console.log("Contact " + name + " does not exist.");
+                }
+                break;
+            }
+            case "END" : {
+                return;
+            }
         }
-        case 'END' : {break;}
     }
 }
-phonebook(["A Nakov 12346"]);
-phonebook(["A Mariika 45893"]);
-phonebook(["S Mariika"]);
-phonebook(["S Nakov"]);
-phonebook(["END"]);
+phonebook(["A Nakov 12346",
+    "A Mariika 45893",
+    "S Mariika",
+    "S Nakov",
+    "S Marto",
+    "END",
+    "A Venzo 007"]);

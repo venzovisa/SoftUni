@@ -1,7 +1,8 @@
-var dict = {};
-dict["key1"] = "value1";
-dict["key2"] = "value2";
-dict["key1"] = "valueEdit";
-for (key in dict) {
-    console.log(dict[key]);
+function random(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1)) + min;
 }
+
+console.log(random(0, 10));
+console.log(Math.random());
