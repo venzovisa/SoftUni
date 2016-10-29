@@ -1,0 +1,4 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

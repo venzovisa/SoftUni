@@ -1,0 +1,5 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.csprojResolveAssemblyReference.cache
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.pdb

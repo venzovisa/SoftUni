@@ -1,0 +1,4 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

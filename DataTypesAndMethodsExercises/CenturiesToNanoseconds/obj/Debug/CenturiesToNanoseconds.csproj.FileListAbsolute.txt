@@ -1,0 +1,5 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb

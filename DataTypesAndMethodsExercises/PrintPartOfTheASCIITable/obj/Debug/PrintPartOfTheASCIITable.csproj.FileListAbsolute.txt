@@ -1,0 +1,4 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\PrintPartOfTheASCIITable\bin\Debug\PrintPartOfTheASCIITable.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\PrintPartOfTheASCIITable\bin\Debug\PrintPartOfTheASCIITable.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\PrintPartOfTheASCIITable\obj\Debug\PrintPartOfTheASCIITable.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\PrintPartOfTheASCIITable\obj\Debug\PrintPartOfTheASCIITable.pdb

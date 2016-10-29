@@ -1,0 +1,5 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\VowelOrDigit\bin\Debug\VowelOrDigit.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\VowelOrDigit\bin\Debug\VowelOrDigit.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\VowelOrDigit\obj\Debug\VowelOrDigit.csprojResolveAssemblyReference.cache
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\VowelOrDigit\obj\Debug\VowelOrDigit.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\VowelOrDigit\obj\Debug\VowelOrDigit.pdb

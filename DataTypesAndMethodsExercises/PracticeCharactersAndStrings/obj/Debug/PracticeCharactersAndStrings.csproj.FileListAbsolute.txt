@@ -1,0 +1,5 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.csprojResolveAssemblyReference.cache
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.pdb

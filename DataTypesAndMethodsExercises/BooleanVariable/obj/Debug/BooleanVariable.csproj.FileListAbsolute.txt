@@ -1,0 +1,4 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\BooleanVariable\obj\Debug\BooleanVariable.pdb

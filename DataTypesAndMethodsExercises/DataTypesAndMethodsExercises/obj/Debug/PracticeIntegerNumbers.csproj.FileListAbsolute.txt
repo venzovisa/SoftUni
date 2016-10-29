@@ -1,0 +1,5 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\DataTypesAndMethodsExercises\bin\Debug\DataTypesAndMethodsExercises.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\DataTypesAndMethodsExercises\bin\Debug\DataTypesAndMethodsExercises.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\DataTypesAndMethodsExercises\obj\Debug\PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\DataTypesAndMethodsExercises\obj\Debug\DataTypesAndMethodsExercises.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\DataTypesAndMethodsExercises\obj\Debug\DataTypesAndMethodsExercises.pdb

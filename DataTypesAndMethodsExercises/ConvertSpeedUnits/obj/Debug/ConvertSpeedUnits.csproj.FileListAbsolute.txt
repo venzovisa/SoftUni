@@ -1,0 +1,4 @@
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.pdb
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.exe
+D:\MEGA\Visual Studio 2013\Projects\DataTypesAndMethodsExercises\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.pdb
